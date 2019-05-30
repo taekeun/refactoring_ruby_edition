@@ -1,2 +1,2 @@
-# refactoring_ruby_edition
-Refactoring: Ruby Edition
+# Refactoring: Ruby Edition
+ruby : 2.6.3
